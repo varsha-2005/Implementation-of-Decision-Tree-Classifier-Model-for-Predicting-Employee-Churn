@@ -57,6 +57,35 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
+1. data.head()
+
+![image](https://github.com/varsha-2005/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119288183/127f6116-fc9a-4bc0-94e7-bf6ed07f5663)
+
+2. data.info()
+
+![Uploading image.png…]()
+
+3. isnull() and sum()
+
+
+
+4. data value counts()
+
+
+
+5. data.head() for salary
+
+
+
+6. x.head()
+
+
+
+7. accuracy value
+
+
+
+
 
 
 
