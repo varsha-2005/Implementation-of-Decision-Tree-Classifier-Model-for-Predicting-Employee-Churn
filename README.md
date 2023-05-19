@@ -63,31 +63,37 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 2. data.info()
 
-![Uploading image.png…]()
+![image](https://github.com/varsha-2005/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119288183/5cec3286-c21c-465d-a88c-cdd5a4582c0d)
+
 
 
 3. isnull() and sum()
 
+![image](https://github.com/varsha-2005/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119288183/9fcb425a-c537-4f19-886f-5087faa732eb)
 
 
 4. data value counts()
 
+![image](https://github.com/varsha-2005/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119288183/bcd926af-f0a8-4c09-b168-18839cee678a)
 
 
 5. data.head() for salary
 
+![image](https://github.com/varsha-2005/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119288183/56a0bda4-ed4a-4983-a006-2d6812c0d332)
 
 
 6. x.head()
 
+![image](https://github.com/varsha-2005/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119288183/4ea71a06-66fb-47f3-89e8-d16db5472b1e)
 
 
 7. accuracy value
 
+![image](https://github.com/varsha-2005/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119288183/5f31f3a2-8ae8-4987-bf34-18e16a12023a)
 
+8. data prediction
 
-
-
+![image](https://github.com/varsha-2005/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119288183/f973beca-eec6-4435-861e-c2ecd08b32c8)
 
 
 ## Result:
